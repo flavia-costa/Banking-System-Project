@@ -21,7 +21,7 @@
 <h2>:computer: Tecnologia </h2>
 <p>:white_circle: Javascript</p>
 
-<h2>📸 Imagens</h2>
+<h2>📸 Exemplos e Imagens</h2>
 <p>Um exemplo de como criar uma conta.</p>
 <img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Criar_Conta.png" alt="Criar Conta">
 <p>Como fica a saida após  pedir o extrato de uma conta.</p>
