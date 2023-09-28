@@ -22,7 +22,36 @@
 <p>:white_circle: Javascript</p>
 
 <h2>📸 Exemplos e Imagens</h2>
-<p>Um exemplo de como criar uma conta.</p>
+<p>Exemplo de como criar uma conta.</p>
 <img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Criar_Conta.png" alt="Criar Conta">
-<p>Como fica a saida após  pedir o extrato de uma conta.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Extrato_Conta.png" alt="Extrato da Conta">
+<p>Depositar Dinheiro.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Depositar_Dinheiro.png" alt="Depositar Dinheiro">
+<p>Sacar Dinheiro.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Sacar_Dinheiro.png" alt="Sacar Dinheiro">
+<p>Transferencia entre contas.</p>
+<p>A senha da conta de origem tem que esta correta.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Transferencia.png" alt="Transferencia entre Contas">
+<p>Extrato da Conta</p>
+<p>Para poder verificar qual o extrato da conta tem que por no 'query' o numero da conta e a senha.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Extrato.png" alt="Extrato da Conta">
+<p>Atualização da Conta.</p>
+<p>Nesse caso a senha foi alterada.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Atualizar_Dados.png" alt="Atualização da Conta">
+<p>Listar as Contas ja cadastradas.</p>
+<p>Para ter acesso tem que ter a senha do banco.</p>
+<p>Nesse exemplo podemos ver que a senha da primeira conta foi alterada.</p>
+<p>E os valores ja foram atualizados.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Liastar_Contas.png" alt="Listar as Contas">
+
+
+
+
+
+
+
+
+
+
+
+
+
