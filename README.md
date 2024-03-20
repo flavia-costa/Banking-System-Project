@@ -1,47 +1,47 @@
-<h1 align="center">Projeto Sistema Bancário</h1>
+<h1 align="center">Banking System Project</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-FINISHED-green"/>
 </p>
 
-<h2>:pencil2: Descrição do Projeto</h2>
-<p>Esse projeto é uma API Rest, desenvolvida em Javascript</p>
-<p>O Sistema Bancário é uma aplicação back-end desenvolvida para gerenciar contas bancárias.</p> 
-<p> Ele permite a criação de novas contas, atualização de dados dos usuários, verificação de saldo, entre outros recursos.</p>
-<p>A aplicação assegura que cada usuário tenha um CPF e e-mail únicos, garantindo a integridade dos dados e a segurança nas transações.</p>
-<p>Todos os valores em dinheiro estão em centavos</p>
+<h2>:pencil2: Project Description</h2>
+<p>This project is a Rest API, developed in Javascript</p>
+<p>The Banking System is a back-end application developed to manage bank accounts.</p> 
+<p>It allows the creation of new accounts, updating user data, checking balance, among other features.</p>
+<p>The application ensures that each user has a unique CPF and email, guaranteeing data integrity and transaction security.</p>
+<p>All cash amounts are in cents.</p>
 
-<h2>:hammer: Executar o projeto</h2>
-<p>:ballot_box_with_check: Para usar esse projeto tem que ter o Node.js instalado.</p>
-<p>:ballot_box_with_check: Clone o repositório para sua maquina.</p>
-<p>:ballot_box_with_check: Instale as Dependências:</p>
+<h2>:hammer: Run the project</h2>
+<p>:ballot_box_with_check: To use this project you must have Node.js installed.</p>
+<p>:ballot_box_with_check: Clone the repository to your machine.</p>
+<p>:ballot_box_with_check: Install Dependencies:</p>
 <ul>npm install</ul>
-<p>:ballot_box_with_check: Execute o Projeto:</p>
+<p>:ballot_box_with_check: Run the Project:</p>
 <ul>npm run dev</ul>
 
-<h2>:computer: Tecnologia </h2>
+<h2>:computer: Technology </h2>
 <p>:white_circle: Javascript</p>
 
-<h2>📸 Exemplos e Imagens</h2>
-<p>Exemplo de como criar uma conta.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Criar_Conta.png" alt="Criar Conta">
-<p>Depositar Dinheiro.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Depositar_Dinheiro.png" alt="Depositar Dinheiro">
-<p>Sacar Dinheiro.</p>
+<h2>📸 Examples and Images</h2>
+<p>Example of how to create an account.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Criar_Conta.png" alt="Create Account">
+<p>Deposit Money.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Depositar_Dinheiro.png" alt="Deposit Money">
+<p>Withdraw Money.</p>
 <img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Sacar_Dinheiro.png" alt="Sacar Dinheiro">
-<p>Transferencia entre contas.</p>
-<p>A senha da conta de origem tem que esta correta.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Transferencia.png" alt="Transferencia entre Contas">
-<p>Extrato da Conta</p>
-<p>Para poder verificar qual o extrato da conta tem que por no 'query' o numero da conta e a senha.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Extrato.png" alt="Extrato da Conta">
-<p>Atualização da Conta.</p>
-<p>Nesse caso a senha foi alterada.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Atualizar_Dados.png" alt="Atualização da Conta">
-<p>Listar as Contas ja cadastradas.</p>
-<p>Para ter acesso tem que ter a senha do banco.</p>
-<p>Nesse exemplo podemos ver que a senha da primeira conta foi alterada.</p>
-<p>E os valores ja foram atualizados.</p>
-<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Liastar_Contas.png" alt="Listar as Contas">
+<p>Transfer between accounts.</p>
+<p>The password for the originating account must be correct.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Transferencia.png" alt="Transfer between Accounts">
+<p>Account Statement</p>
+<p>To be able to check the account statement you have to query the account number and password.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Extrato.png" alt="Account Statement">
+<p>Account Update.</p>
+<p>In this case the password has been changed.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Atualizar_Dados.png" alt="Account Update">
+<p>List the Accounts already registered.</p>
+<p>To gain access, you must have the bank's password.</p>
+<p>In this example we can see that the password for the first account has been changed.</p>
+<p>And the values have already been updated.</p>
+<img src="https://github.com/flavia-costa/Banking-System-Project/blob/main/Imagens/Liastar_Contas.png" alt="List the Accounts">
 
 
 
